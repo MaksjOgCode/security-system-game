@@ -1,0 +1,29 @@
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.idea/
+/Plugins/**/Binaries/
+/Plugins/**/Intermediate/
+
+# IDE and operating system files
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.code-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials
+.env
+.env.*
+!.env.example
